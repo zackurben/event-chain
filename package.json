@@ -1,0 +1,37 @@
+{
+  "name": "event-chain",
+  "version": "0.0.1",
+  "description": "A simple way to chain events and control program flow asynchronously.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zackurben/event-chain"
+  },
+  "keywords": [
+    "event",
+    "event-chain",
+    "event chain",
+    "chain events",
+    "node",
+    "node.js"
+  ],
+  "author": "Zack Urben <zackurben@gmail.com> (http://zackurben.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zackurben/event-chain/issues"
+  },
+  "homepage": "https://github.com/zackurben/event-chain",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "lodash.uniq": "^3.2.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
