@@ -1,5 +1,5 @@
 # event-chain
-A simple way to chain events and control program flow asynchronously.
+A simple way to chain events and control program flow asynchronously. [![Build Status](https://travis-ci.org/zackurben/event-chain.svg?branch=master)](https://travis-ci.org/zackurben/event-chain)
 
 This is an open source project under the MIT license, see [LICENSE.md](LICENSE.md) for additional information.
 
